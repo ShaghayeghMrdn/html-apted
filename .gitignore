@@ -12,6 +12,9 @@
 hs_err_pid*
 
 # Gradle stuff
+gradlew
+gradlew.bat
+gradle/*
 build/
 .gradle/
 /.nb-gradle/
